@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Window\AddBudgetWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Window\BudgetWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Window\DashboardWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Window\EditBudgetWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Window\LoginWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Window\SignUpWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Window\TransactionWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
